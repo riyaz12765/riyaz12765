@@ -45,6 +45,27 @@ My journey in Electronics and Communications Enineering has led me to develop a 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+<p align="center">
+  <a href="#zeek-details">
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Zeek Details <a id="zeek-details"></a>
+
+Zeek is a powerful network analysis framework that is much different from the typical IDS.  
+It can log:
+- HTTP, DNS, SSH, FTP
+- Detect port scans
+- Parse protocol behaviors
+
+🔍 **Use Cases**:
+- Threat hunting
+- Incident response
+- Real-time network monitoring
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
