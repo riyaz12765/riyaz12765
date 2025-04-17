@@ -61,33 +61,17 @@ A file is downloaded → trigger file_downloaded
 
 You can write custom detections using this logic.
 
-3. Log Files = The Goldmine
-After Zeek runs, it generates log files like:
+3. Zeek can generate various types of Log Files = The Goldmine
+After Zeek runs, it generates log files such as:
 
-
-Log File	What It Tracks
 conn.log	All TCP/UDP connections
 http.log	HTTP requests and responses
 dns.log	DNS queries
 ssh.log	SSH login attempts
 weird.log	Suspicious or unexpected behavior
 notice.log	Custom alerts (like potential threats)
-These logs help in forensics, incident response, and threat hunting.
+These logs help for forensics, incident response, and threat hunting.
 
-4. Passive, Not Active
-Zeek doesn’t block or interfere with the traffic. It just monitors silently like a ninja 🥷
-
-🔧 Example Use Case:
-Imagine you’re doing a pentest:
-
-Victim machine: 192.168.1.10
-
-Attacker: 192.168.1.5
-
-Zeek is running in between on a defensive VM
-
-You start a DoS or exploit from attacker → Zeek logs all the suspicious traffic.
-You later check conn.log, dns.log, notice.log etc., to see how the attack happened.
 
 ⚡ Why Zeek is Powerful:
 Lightweight but powerful
@@ -97,8 +81,6 @@ Custom scripts
 Works great with other tools like ELK, Splunk, or SIEMs
 
 Real-time alerting possible
-
-If you want, I can also help you write a basic Zeek script or show how to analyze logs after an attack. Just tell me what vibe you’re going for bro 😎
 
 
 
