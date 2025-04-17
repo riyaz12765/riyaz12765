@@ -26,11 +26,11 @@ My journey in Electronics and Communications Enineering has led me to develop a 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<p align="center">
+<div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" width="180"/>
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" width="180"/>
   <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
-</p>
+</div>
 
 
 ### Endpoint
