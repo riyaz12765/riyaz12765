@@ -26,7 +26,7 @@ My journey in Electronics and Communications Enineering has led me to develop a 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<p align="center">
+<p align="left">
   <a href="#zeek-details">
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
   </a>
