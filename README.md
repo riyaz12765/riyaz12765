@@ -58,18 +58,21 @@ My journey in Electronics and Communications Enineering has led me to develop a 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- sec
+- fggg
+- gggg
 
+- gg
+- g
+- gg
 
+- g
+- g
+- g
+- g
+- g
 
-
-
-
-
-
-fffff
-ff
-f
-f
-f
-f
-
+- g
+- g
+- g
+- 
