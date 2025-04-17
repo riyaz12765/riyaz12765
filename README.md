@@ -6,7 +6,7 @@
 I am graduate in M.A.M College of Engineering and Technology Anna University Chennai.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective - Remove this afterwards]
 
 My journey in Electronics and Communications Enineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
