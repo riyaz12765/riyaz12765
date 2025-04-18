@@ -26,47 +26,8 @@ My journey in Electronics and Communications Enineering has led me to develop a 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-## <p align="left">
-  <a href="<br><br><br>
-
-## 🧠 Zeek Details <a id="zeek-details">What is Zeek?
-Zeek (formerly known as Bro) is an open-source network security monitoring tool. It's not like Wireshark that captures everything, and it’s not a firewall that blocks stuff. Zeek just watches the traffic silently and logs what's happening — HTTP, DNS, SSH, FTP, malware activity, etc.
-
-Think of Zeek as a smart CCTV for your network.
-
-🧠 Core Concept of Zeek:
-1. Network Traffic Monitoring
-Zeek sniffs packets on the network (using something like pcap), and instead of storing all raw packets, it converts it into logs that are easy to analyze.
-
-Example:
-If someone visits a website → Zeek logs it into http.log.
-If someone does DNS queries → dns.log.
-SSH login attempts? → ssh.log.
-
-2. Event-Driven Scripting
-Zeek uses its own scripting language. It works based on events like:
-
-A new connection starts → trigger connection_established
-
-An HTTP request is sent → trigger http_request
-
-A file is downloaded → trigger file_downloaded
-
-You can write custom detections using this logic.
-
-3. Log Files = The Goldmine
-After Zeek runs, it generates log files like:
-
-
-Log File	What It Tracks
-conn.log	All TCP/UDP connections
-http.log	HTTP requests and responses
-dns.log	DNS queries
-ssh.log	SSH login attempts
-weird.log	Suspicious or unexpected behavior
-notice.log	Custom alerts (like potential threats)
-These logs help in forensics, incident response, and threat hunting.
-">
+ <p align="left">
+  <a href="#zeekdetailes">
     <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
   </a>
 
