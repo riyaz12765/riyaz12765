@@ -1,5 +1,5 @@
 # Hello, I'm Mohamed Riyas J
-<a href="www.linkedin.com/in/mohamed-riyas-9905a3326"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 
