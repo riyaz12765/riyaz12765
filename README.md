@@ -26,14 +26,8 @@ My journey in Electronics and Communications Enineering has led me to develop a 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<p align="left">
-  <a href="#zeek-details">
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
-  </a>
-</p>
-
-<!-- Add spacing here -->
-<br><br><br>
+## <p align="left">
+  <a href="<br><br><br>
 
 ## 🧠 Zeek Details <a id="zeek-details">What is Zeek?
 Zeek (formerly known as Bro) is an open-source network security monitoring tool. It's not like Wireshark that captures everything, and it’s not a firewall that blocks stuff. Zeek just watches the traffic silently and logs what's happening — HTTP, DNS, SSH, FTP, malware activity, etc.
@@ -71,7 +65,13 @@ dns.log	DNS queries
 ssh.log	SSH login attempts
 weird.log	Suspicious or unexpected behavior
 notice.log	Custom alerts (like potential threats)
-These logs help in forensics, incident response, and threat hunting.</a>
+These logs help in forensics, incident response, and threat hunting.
+">
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
+  </a>
+
+
+<!-- Add spacing here -->
 
 
 
