@@ -27,7 +27,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ## Network Security Device
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/ZEEK-6A5ACD?style=for-the-badge&logoColor=white" hi />
+  <img src="https://img.shields.io/badge/ZEEK-6A5ACD?style=for-the-badge&logoColor=white"  /> <p>hi</p>
   <img src="https://img.shields.io/badge/SNORT-FF5C8A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SURICATA-FFA500?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/WIRESHARK-0078D7?style=for-the-badge&logo=Wireshark&logoColor=white" />
