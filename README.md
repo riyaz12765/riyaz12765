@@ -31,6 +31,15 @@ My journey in Electronics and Communications Engineering has led me to develop a
   
  </div>
 
+ ### Network
+
+<div>
+    <img src="https://img.shields.io/badge/-Snort-FF416C?style=for-the-badge&logo=snort&logoColor=white" width="180" />
+    <img src="https://img.shields.io/badge/-Suricata-FFB400?style=for-the-badge&logo=suricata&logoColor=white" width="180" />
+    <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
+</div>
+
+
 
 <!-- Add spacing here -->
 
