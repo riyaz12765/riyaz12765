@@ -8,7 +8,7 @@ I am graduate in M.A.M College of Engineering and Technology Anna University Che
 ## Objective
 [Provide Objective - Remove this afterwards]
 
-My journey in Electronics and Communications Engneering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Electronics and Communications Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -28,7 +28,7 @@ My journey in Electronics and Communications Engneering has led me to develop a 
 ### Network
  <p align="left">
   <a href="#zeekdetailes">
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="150"/>
   </a>
  </p>
 
