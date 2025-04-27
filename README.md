@@ -3,15 +3,13 @@
 
 [Brief Introduction]
 
-I am graduate in M.A.M College of Engineering and Technology Anna University Chennai.
+I am graduate in M.A.M College of Engineering and Technology Affiliated with Anna University Chennai.
 
 ## Objective
-[Provide Objective - Remove this afterwards]
 
 My journey in Electronics and Communications Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
@@ -23,7 +21,6 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | Phishing Email Investigation                    | Cofense, HoxHunt           |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Network Security Device
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
@@ -43,7 +40,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ---
 
-## SIEM
+## SIEM Tools
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -53,7 +50,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ### 🔹 PurpleSyNapz — Cyber Security Analyst Intern
 🗓️ Location: Bengaluru, Karnataka, India  
-🗓️ Duration: ( 3 Months)
+🗓️ Duration:  3 Months
 
 **Project:** Simulated SOC Attack Detection Lab
 
