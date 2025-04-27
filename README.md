@@ -49,17 +49,23 @@ My journey in Electronics and Communications Engineering has led me to develop a
   <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+## Internship Experience
+
+### 🔹 PurpleSyNapz — Cyber Security Analyst Intern
+🗓️ Location: Bengaluru, Karnataka, India  
+🗓️ Duration: ( 3 Months)
+
+**Project:** Simulated SOC Attack Detection Lab
+
+- 🔸 Built a 3-VM lab environment using Kali Linux, Metasploitable2, and Zeek to simulate cyberattacks.
+- 🔸 Launched various attacks from Kali Linux, exploited vulnerabilities on Metasploitable2, and captured real-time logs via Zeek.
+- 🔸 Analyzed HTTP, DNS, and connection logs to identify suspicious activities and documented detailed findings.
+
+**Tools & Technologies:** Zeek, Kali Linux, Metasploitable2, VirtualBox
 
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+
 
 ## Projects
 - Detection Lab
