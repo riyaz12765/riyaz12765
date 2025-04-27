@@ -41,12 +41,6 @@ My journey in Electronics and Communications Engineering has led me to develop a
     <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
 </div>
 
-<br/>
-
-<div style="margin-top: 20px; font-size: 16px; color: #666;">
-<p><b>Wireshark</b> is a widely-used network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network. It is essential for troubleshooting, analysis, and security audits.</p>
-</div>
-
 </div>
 
 
