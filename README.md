@@ -27,9 +27,8 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ### Network
  <div>
-  <a href="#zeekdetailes">
     <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
-  </a>
+  
  </div>
 
 
