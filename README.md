@@ -26,11 +26,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network Security Device
- ### Network
 
-### Network Tools
-
-### Network Tools
 
 <div style="text-align: center; margin-top: 30px;">
 
@@ -51,17 +47,17 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 
 
-### Endpoint
+### Endpoint Security Tools
+
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-004AEF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike_Falcon-000000?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 
