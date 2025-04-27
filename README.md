@@ -28,11 +28,19 @@ My journey in Electronics and Communications Engineering has led me to develop a
 ### Network Security Device
  ### Network
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Snort-FF416C?style=for-the-badge&logo=snort&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Suricata-FFB400?style=for-the-badge&logo=suricata&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
+### Network Tools
+
+<div style="text-align: center; margin-top: 30px;">
+    <div style="display: inline-flex; gap: 20px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180" />
+        <img src="https://img.shields.io/badge/-Snort-FF416C?style=for-the-badge&logo=snort&logoColor=white" width="180" />
+        <img src="https://img.shields.io/badge/-Suricata-FFB400?style=for-the-badge&logo=suricata&logoColor=white" width="180" />
+        <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
+    </div>
+
+    <div style="margin-top: 20px; font-size: 16px; color: #666;">
+        <p><b>Wireshark</b> is a widely-used network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network. It is essential for troubleshooting, analysis, and security audits.</p>
+    </div>
 </div>
 
 
