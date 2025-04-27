@@ -50,7 +50,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 ### Endpoint Security Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-004AEF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-004AEF?style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/CrowdStrike_Falcon-000000?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
