@@ -25,39 +25,28 @@ My journey in Electronics and Communications Engineering has led me to develop a
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network Security Device
-
-
-<div style="text-align: center; margin-top: 30px;">
-
-<div style="display: inline-flex; gap: 20px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Snort-FF416C?style=for-the-badge&logo=snort&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Suricata-FFB400?style=for-the-badge&logo=suricata&logoColor=white" width="180" />
-    <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
+## Network Security Device
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/ZEEK-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNORT-FF5C8A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SURICATA-FFA500?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/WIRESHARK-0078D7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+---
+
+## Endpoint Security Tools
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MICROSOFT_DEFENDER-004AEF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/CROWDSTRIKE_FALCON-000000?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
+---
 
-
-
-<!-- Add spacing here -->
-
-
-
-
-### Endpoint Security Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_Defender-004AEF?style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike_Falcon-000000?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+## SIEM
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 
