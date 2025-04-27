@@ -25,19 +25,16 @@ My journey in Electronics and Communications Engineering has led me to develop a
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
- <div>
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180"/>
-  
- </div>
-
+### Network Security Device
  ### Network
 
-<div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" width="180" />
     <img src="https://img.shields.io/badge/-Snort-FF416C?style=for-the-badge&logo=snort&logoColor=white" width="180" />
     <img src="https://img.shields.io/badge/-Suricata-FFB400?style=for-the-badge&logo=suricata&logoColor=white" width="180" />
     <img src="https://img.shields.io/badge/-Wireshark-006CB5?style=for-the-badge&logo=wireshark&logoColor=white" width="180" />
 </div>
+
 
 
 
