@@ -65,7 +65,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 
 ## Projects
--  <a href="https://github.com/riyaz12765?tab=repositories">Detection Lab</a>
+-  <a href="https://github.com/riyaz12765/100-Days-challenge">Detection Lab</a>
 - SOC Automation Project
 - sec
 - fggg
