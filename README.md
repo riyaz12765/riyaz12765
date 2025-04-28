@@ -68,6 +68,6 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 | **Project** | **Description** |
 |:------------|:----------------|
-|<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Introduction to Log Analysis </a> | This project demonstrates the installation and configuration of Wazuh SIEM for real-time monitoring and threat detection on a Windows system. |
+|<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents. |
 | [Project 2](link_here) | Short Description |
 | [Project 3](link_here) | Short Description |
