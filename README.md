@@ -65,9 +65,6 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 
 ## 100 Days Challenges for SOC Pratice
--  <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md"> Introduction to Log Analysis</a>  
-- SOC Automation Project
-## Projects
 
 | **Project** | **Description** |
 |:------------|:----------------|
