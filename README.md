@@ -69,5 +69,5 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | **Project** | **Description** |
 |:------------|:----------------|
 |<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents. |
-| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md">windows </a> | Short Description |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md">Windows Security Logs </a> | Short Description |
 | [Project 3](link_here) | Short Description |
