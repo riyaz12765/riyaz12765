@@ -9,9 +9,9 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ## Skills
 
-| Skill                                           | Associated Project         |
+|              Skill                              |     Technology & Tools     |
 |-------------------------------------------------|----------------------------|
-| SOC ( Security Operation Center                 | SIEM, TIPs, EDR            |
+| SOC ( Security Operation Center                 | SIEM,  EDR                 |
 | SIEM Implementation and Log Analysis            | Splunk, Microsoft Sentinel |
 | EDR (Endpoint Detection & Response)             | CrowdStrike, Carbon Black  |
 | Malware Analysis                                | VirusTotal, McAfee         |
