@@ -64,7 +64,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 
 
-## Projects
+## 100 Days Challenges for SOC Pratice
 -  <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Detection Lab</a>
 - SOC Automation Project
 - sec
