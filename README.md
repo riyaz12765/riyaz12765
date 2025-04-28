@@ -67,21 +67,10 @@ My journey in Electronics and Communications Engineering has led me to develop a
 ## 100 Days Challenges for SOC Pratice
 -  <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md"> Introduction to Log Analysis</a>  
 - SOC Automation Project
-- sec
-- fggg
-- gggg
+## Projects
 
-- gg
-- g
-- gg
-
-- g
-- g
-- g
-- g
-- g
-
-- g
-- g
-- g
-- 
+| **Project** | **Description** |
+|:------------|:----------------|
+| [Wazuh-Installation-Configuration](link_here) | This project demonstrates the installation and configuration of Wazuh SIEM for real-time monitoring and threat detection on a Windows system. |
+| [Project 2](link_here) | Short Description |
+| [Project 3](link_here) | Short Description |
