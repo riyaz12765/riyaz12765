@@ -62,7 +62,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 
 
-## 100 Days Challenges for SOC Pratice
+## 100 Days Challenges for SOC Practice
 
 | **Project** | **Description** |
 |:------------|:----------------|
