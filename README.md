@@ -73,7 +73,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%235-%20Log%20Analysis%20Basics_%20Linux%20Auth%20Logs.md">Linux Auth Log</a> |simulate an SSH brute force attack and demonstrate how to detect it using Linux authentication logs. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%236-%20Introduction%20to%20Wireshark.md">Wireshark – Packet Analysis> </a> | Wireshark is a powerful packet analysis tool used by SOC analysts to investigate network traffic. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%237-%20Wireshark%20Basics%20%E2%80%93%20ICMP%20Protocol%20Analysis.md#day7-wireshark-basics--icmp-protocol-analysis">Wireshark –ICMP Protocol Analysis> </a> | understand and analyze ICMP (Internet Control Message Protocol) packets using Wireshark with some special command to filter. |
-| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%238-%20Wireshark%20Basics%20%E2%80%93%20TCP%20Protocol%20Analysis%20(1).md">Wireshark – TCP Protocol Analysis> </a> |  Learn Detect and analyzing TCP (Transmission Control Protocol) traffic using Wireshark. |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%238-%20Wireshark%20Basics%20%E2%80%93%20TCP%20Protocol%20Analysis%20(1).md">Wireshark – TCP Protocol Analysis </a> |  Learn Detect and analyzing TCP (Transmission Control Protocol) traffic using Wireshark. |
 
 
 
