@@ -1,6 +1,5 @@
 # Hello, I'm Mohamed Riyas J
-<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="file:///C:/Users/IT/Downloads/RiyasUpdatedResume_Apr2025.pdf%20.pdf%20(1).pdf" target="_blank">
-  <img src="https://img.shields.io/badge/-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="https://www.youtube.com/watch?v=SjiSEvh6fJs" target="_blank"><img src="https://img.shields.io/badge/-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 
