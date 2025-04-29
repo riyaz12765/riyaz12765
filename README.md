@@ -70,6 +70,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md">Windows Security Logs </a> | As a SOC Analyst will learn how to explore and analyze various security logs such as Successfull and Failed login attempts, user account changes that could indicate potential security threats. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%233-%20Log%20Analysis%20Basics_%20Windows%20Powershell%20Logs.md"> Windows PowerShell Logs</a> | Execute powershell script as a attacker and as a soc analyst how to detect and analyze those logs on windows. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%234-%20Log%20Analysis%20Basics_%20Network-Based%20Attacks%20on%20Linux.md">  Network-Based Attack Detection Using UFW</a> | how to launch the HTTP scan prob from Kali Linux(attacker) machine and detect these scan ataempt on Victim machine using UFW. |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%235-%20Log%20Analysis%20Basics_%20Linux%20Auth%20Logs.md">Linux Auth Log</a> |simulate an SSH brute force attack and demonstrate how to detect it using Linux authentication logs. |
 
 
 
