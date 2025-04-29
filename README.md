@@ -64,7 +64,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ## 100 Days Challenges for SOC Practice To Gain Hands-on Experience
 
-| **Project** | **Description** |
+| days   | **Project** | **Description** |
 |:------------|:----------------|
 |<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md">Windows Security Logs </a> | As a SOC Analyst will learn how to explore and analyze various security logs such as Successfull and Failed login attempts, user account changes that could indicate potential security threats. |
