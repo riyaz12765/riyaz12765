@@ -1,6 +1,6 @@
 # Hello, I'm Mohamed Riyas J
 <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
+<a href="https://www.linkedin.com/feed/"><img src="https://github.com/riyaz12765/Resume/blob/d69ac3e92e7818627ac93ae9e62b8d18f997b75e/RiyasResume_Apr2025.pdf" /></a> 
 
 I am graduate in M.A.M College of Engineering and Technology with Electronics and Communications Engineering Affiliated with Anna University Chennai.
 
