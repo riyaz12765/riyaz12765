@@ -21,7 +21,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ## Tools
 
-## Network Security Device
+## Network Security Tools.
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/ZEEK-6A5ACD?style=for-the-badge&logoColor=white"  />
   <img src="https://img.shields.io/badge/SNORT-FF5C8A?style=for-the-badge&logoColor=white" />
@@ -65,8 +65,8 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 ## 100 Days Challenges for SOC Practice To Gain Hands-on Experience
 
-| **Project** | **Description** |
-|:------------|:----------------|
+| **Project** | **Description** |  day
+|:------------|:----------------|:------|
 |<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md">Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md">Windows Security Logs </a> | As a SOC Analyst will learn how to explore and analyze various security logs such as Successfull and Failed login attempts, user account changes that could indicate potential security threats. |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%233-%20Log%20Analysis%20Basics_%20Windows%20Powershell%20Logs.md"> Windows PowerShell Logs</a> | Execute powershell script as a attacker and as a soc analyst how to detect and analyze those logs on windows. |
