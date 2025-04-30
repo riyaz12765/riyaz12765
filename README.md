@@ -78,6 +78,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%239-%20Wireshark%20Basics%20%E2%80%93%20HTTP%20Protocol%20Analysis.md">Wireshark – HTTP Protocol Analysis </a> |  Analyze HTTP Hypertext Transfer Protocol packets using Wireshark. | 9 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2310-%20Wireshark%20Basics%20%E2%80%93%20TLS%20Protocol%20Analysis.md">Wireshark – TLS Protocol Analysis </a> |  Analyze HTTP Hypertext Transfer Protocol packets using Wireshark. | 10 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2311-%20Introduction%20to%20Incident%20Response.md">Introduction to Incident Response </a> |  Learn the core concepts of incident response and familiarize with the incident response lifecycle. | 11 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2312-%20Incident%20Response%20Basics_%20Suspicious%20Bash%20Script%20Execution.md"> Linux Suspicious Bash Script Execution </a> |  Attacker how execute the bash script and as a soc anlyst how to detect, analyze, investigate, respond include kill the process and remove the script. | 12 |
 
 
 
