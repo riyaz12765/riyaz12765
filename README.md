@@ -80,7 +80,9 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2311-%20Introduction%20to%20Incident%20Response.md">Introduction to Incident Response </a> |  Learn the core concepts of incident response and familiarize with the incident response lifecycle. | 11 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2312-%20Incident%20Response%20Basics_%20Suspicious%20Bash%20Script%20Execution.md"> Linux Suspicious Bash Script Execution </a> |  Attacker how execute the bash script and as a soc anlyst how to detect, analyze, investigate, respond include kill the process and remove the script. | 12 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2313-%20Incident%20Response%20Basics-%20Malicious%20Cron%20Jobs.md">Detecting and Removing Malicious Cron Jobs </a> |  Learn to investigate and respond to a malicious cron job used by an attacker to maintain persistence on a Linux system. | 13 |
-| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2314-%20Incident%20Response%20Basics_%20Suspicious%20PowerShell%20Activity.md">Detecting Suspicious PowerShell Activitys </a> |  simulate and investigate a suspicious PowerShell command on a Windows system. | 14 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2314-%20Incident%20Response%20Basics_%20Suspicious%20PowerShell%20Activity.md">Detecting Suspicious PowerShell Activitys </a> |  Investigate and respond to a suspicious outbound network connection from a Linux machine. | 14 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2315-%20Incident%20Response%20Basics_%20Linux%20Suspicious%20Process.md">Suspicious Network Connection</a> |  simulate and investigate a suspicious PowerShell command on a Windows system. | 15 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 16 |
 
 
 
