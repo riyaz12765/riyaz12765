@@ -84,7 +84,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2315-%20Incident%20Response%20Basics_%20Linux%20Suspicious%20Process.md">Suspicious Network Connection</a> |  simulate and investigate a suspicious PowerShell command on a Windows system. | 15 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 16 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2317-%20Splunk%20Basics_%20Ingesting%20Linux%20Logs.md">Splunk Basics – DNS Log Analysis</a> |Understand how to extract useful information such as DNS query types, source hosts, and common destinations.| 17 |
-| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 18 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2318-Splunk%20Basics_%20SSH%20Log%20Analysis.md">SSH Log Analysis</a> | Detect failed and successful SSH authentication attempts.| 18 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2319-Splunk%20Basics_%20HTTP%20Log%20Analysis.md">HTTP Log Analysis</a> |Detect client errors, server errors, and suspicious web activity.| 19 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2320-%20Splunk%20Basics_%20Connection%20Log%20Analysis.md"> Zeek Connection Log Analysis</a> | Learn zeek and analyze zeek logs for investigate.| 20 |
 
