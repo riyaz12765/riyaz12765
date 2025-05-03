@@ -82,7 +82,11 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2313-%20Incident%20Response%20Basics-%20Malicious%20Cron%20Jobs.md">Detecting and Removing Malicious Cron Jobs </a> |  Learn to investigate and respond to a malicious cron job used by an attacker to maintain persistence on a Linux system. | 13 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2314-%20Incident%20Response%20Basics_%20Suspicious%20PowerShell%20Activity.md">Detecting Suspicious PowerShell Activitys </a> |  Investigate and respond to a suspicious outbound network connection from a Linux machine. | 14 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2315-%20Incident%20Response%20Basics_%20Linux%20Suspicious%20Process.md">Suspicious Network Connection</a> |  simulate and investigate a suspicious PowerShell command on a Windows system. | 15 |
-| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 16 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2317-%20Splunk%20Basics_%20Ingesting%20Linux%20Logs.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 16 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Splunk Basics – DNS Log Analysis</a> |Understand how to extract useful information such as DNS query types, source hosts, and common destinations.| 17 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 18 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 19 |
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2316-Setting%20up%20Splunk.md">Install and Configure Splunk</a> | How to install splunk and configure and how soc analyst use splunk| 20 |
 
 
 
