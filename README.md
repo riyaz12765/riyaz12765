@@ -67,7 +67,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
   | **Project** | **Description** | day | Status |
 |:------------|:----------------|:----|:---------|
-|<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md"> Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs   to detect security incidents. | 1 |
+|<a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%231-%20Introduction%20to%20Log%20Analysis%20(1).md"> Introduction to Log Analysis </a> |  learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs   to detect security incidents. | 1 | ✅ |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%232-%20Log%20Analysis%20Basics_%20Windows%20Security%20Logs.md"> Windows Security Logs </a> | As a SOC Analyst will learn how to explore and analyze various security logs such as Successfull and Failed login attempts, user account changes that could indicate potential security threats. | 2 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%233-%20Log%20Analysis%20Basics_%20Windows%20Powershell%20Logs.md"> Windows PowerShell Logs </a> | Execute powershell script as a attacker and as a soc analyst how to detect and analyze those logs on windows. | 3 |
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%234-%20Log%20Analysis%20Basics_%20Network-Based%20Attacks%20on%20Linux.md">  Network-Based Attack Detection Using UFW </a> | how to launch the HTTP scan prob from Kali Linux(attacker) machine and detect these scan ataempt on Victim machine using UFW. | 4 |
