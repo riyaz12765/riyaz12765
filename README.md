@@ -87,6 +87,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2318-Splunk%20Basics_%20SSH%20Log%20Analysis.md">SSH Log Analysis</a> | Detect failed and successful SSH authentication attempts.| 18 | ✅ 
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2319-Splunk%20Basics_%20HTTP%20Log%20Analysis.md">HTTP Log Analysis</a> |Detect client errors, server errors, and suspicious web activity.| 19 | ✅ 
 | <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2320-%20Splunk%20Basics_%20Connection%20Log%20Analysis.md"> Zeek Connection Log Analysis</a> | Learn zeek and analyze zeek logs for investigate.| 20 | ✅ 
+| <a href="https://github.com/riyaz12765/100-Days-challenge/blob/main/Day%2321-%20Introduction%20to%20Phishing%20Analysis.md"> Introduction to Phishing Analysis</a> | how to analyze a phishing email by examining headers, body, URLs, and attachments.| 21 | ✅ 
 
 
 
