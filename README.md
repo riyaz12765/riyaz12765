@@ -12,7 +12,7 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 |              Skill                              |     Technology & Tools     |
 |-------------------------------------------------|----------------------------|
-| SOC ( Security Operation Center                 | SIEM,  EDR                 |
+| SOC ( Security Operation Center                 | SIEM,  EDR, Network Security Monitoring |
 | SIEM Implementation and Log Analysis            | Splunk, Microsoft Sentinel |
 | EDR (Endpoint Detection & Response)             | CrowdStrike, Carbon Black  |
 | Malware Analysis                                | VirusTotal, McAfee         |
@@ -53,17 +53,17 @@ My journey in Electronics and Communications Engineering has led me to develop a
 
 **Project:** Simulated SOC Attack Detection Lab
 
-- 🔸 Built a 3-VM lab environment using Kali Linux, Metasploitable2, and Zeek to simulate cyberattacks.
-- 🔸 Launched various attacks from Kali Linux, exploited vulnerabilities on Metasploitable2, and captured real-time logs via Zeek.
-- 🔸 Analyzed HTTP, DNS, and connection logs to identify suspicious activities and documented detailed findings.
-
-**Tools & Technologies:** Zeek, Kali Linux, Metasploitable2, VirtualBox
-
-
+ * Monitor and Analyse the logs or incident from from various network security and SIEM tools splunk, zeek, wireshark.
+ * Detect the unauthorized login or attempt and investigate to determine false positive or true positive.
+ * Analyze the logs from IDS/IPS, firewall to identifying the potential threat.
+ * Learn Advanced technology artificial intelligence & machine learning.
+ * Setup SOC Lab and continuously self weekly report the task.
 
 
 
-## 100 Days Challenges for SOC Practice To Gain Hands-on Experience
+
+
+## 30 Days Challenges for SOC Practice To Gain Hands-on Experience
 
   | **Project** | **Description** | day | Status |
 |:------------|:----------------|:----|:---------|
